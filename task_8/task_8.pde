@@ -13,3 +13,5 @@ for (int i = 0; i < 100; i++)
 }
 
 println("Here are 100 random circles, just for you!");
+
+// Could also set random inside circle sizes instead of having variables
